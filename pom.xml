@@ -5,7 +5,7 @@
 	<groupId>uk.co.weatherbys</groupId>
 	<artifactId>audit</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.0</version>
+	<version>1.0-SNAPSHOT</version>
 	<name>audit</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
