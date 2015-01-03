@@ -11,6 +11,7 @@ public class TestEndPoint {
 	public void testStatus() {
 		
 		Assert.assertNotNull("test");
+		
 			
 	}
 
